@@ -9,7 +9,7 @@ Para a biblioteca mechanize utilize: python2 -m pip install mechanize
 
 
 
-Estrutura de utilização do scriot
+Estrutura de utilização do script
 
 
 Esteja com o script e a wordlist a ser utilizada na mesma pasta ou diretório
